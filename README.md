@@ -1,18 +1,18 @@
-# 🌱 Renewable Energy Consumption Analysis (1973–2024)
+#  Renewable Energy Consumption Analysis (1973–2024)
 
-## 📌 Short Description
+##  Short Description
 
 A data analysis and forecasting project exploring renewable energy consumption trends using EDA and machine learning models to uncover insights and predict future growth.
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Renewable energy is essential for sustainable development and reducing reliance on fossil fuels. This project analyzes historical renewable energy consumption data (1973–2024) to identify patterns, trends, and future projections using data analysis and predictive modeling techniques.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Perform Exploratory Data Analysis (EDA) on renewable energy data
 * Analyze trends across different energy sources
@@ -21,7 +21,7 @@ Renewable energy is essential for sustainable development and reducing reliance 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Programming:** Python
 * **Libraries:** Pandas, NumPy
@@ -31,7 +31,7 @@ Renewable energy is essential for sustainable development and reducing reliance 
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 * Trend analysis of energy sources (Solar, Wind, Hydro, Biomass, Geothermal)
 * Sector-wise consumption (Industrial, Residential, Commercial, Transportation)
@@ -40,7 +40,7 @@ Renewable energy is essential for sustainable development and reducing reliance 
 
 ---
 
-## 🤖 Models Used
+##  Models Used
 
 * **Linear Regression** – captures overall trend
 * **Polynomial Regression** – handles non-linear patterns
@@ -49,7 +49,7 @@ Renewable energy is essential for sustainable development and reducing reliance 
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * Solar and Wind energy are growing rapidly
 * Hydropower remains stable and dominant
@@ -58,29 +58,17 @@ Renewable energy is essential for sustainable development and reducing reliance 
 
 ---
 
-## 🧾 Conclusion
+##  Conclusion
 
 Renewable energy consumption has steadily increased over the years. Forecasting models indicate that Solar and Wind energy will dominate in the future.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Use larger/global datasets
 * Apply advanced models (LSTM, Prophet, SARIMA)
 * Include economic and policy factors
-
----
-
-## 📂 Project Structure
-
-```
-├── data/
-├── notebooks/
-├── src/
-├── visuals/
-└── README.md
-```
 
 ---
 
